@@ -17,3 +17,11 @@ header, footer {
 #my-image {
     box-shadow: 0 0 2px 1px black;
 }
+
+p.solid {border-style: solid;}
+
+a:hover {
+    color: rgb(0, 255, 85);
+    background-color: transparent;
+    text-decoration: underline;
+  }
